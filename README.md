@@ -1,2 +1,2 @@
-# Hash Tables Presentation 
+# Hash Table Presentation 
 The purpose of this repository is to present the idea of the *hash table* data structure 

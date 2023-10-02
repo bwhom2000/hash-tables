@@ -6,3 +6,5 @@ The purpose of this repository is to present the idea of the `hash table` data s
 ### 2. Hash Functions
 
 ### 3. Collision Resolutions
+
+[Presentation link](https://docs.google.com/presentation/d/1NCLc6p19IvXvYeru1W8ws734RZow3zMATC_YVWODY2Q/edit#slide=id.g286732056f7_1_23)

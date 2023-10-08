@@ -7,4 +7,6 @@ The purpose of this repository is to present the idea of the `hash table` data s
 
 ### 3. Collision Resolutions
 
+## Why care about Hash Tables?
+
 

@@ -14,8 +14,8 @@ The purpose of this repository is to present the idea of the `hash table` data s
 ### 2. Reddit posts: 
 - [Most Common Data Structure Patterns](https://www.reddit.com/r/leetcode/comments/ve3128/what_are_the_most_common_patterns_in_interviews/)
 - [When in doubt..](https://www.reddit.com/r/csMajors/comments/p5opln/when_in_doubt_hashmap/)
-- [Comomonly Used Data Structures at work](https://www.reddit.com/r/ProgrammingLanguages/comments/w9bp4k/what_would_be_the_8020_of_data_structures_and/)
+- [Commonly Used Data Structures at work](https://www.reddit.com/r/ProgrammingLanguages/comments/w9bp4k/what_would_be_the_8020_of_data_structures_and/)
 
-### 3. USF MSDS Data Structures and Algortihms: [Data Sturctures Course covers Hash Tables](https://catalog.usfca.edu/preview_course_nopop.php?catoid=38&coid=558540)
+### 3. USF MSDS Data Structures and Algortihms: [Hash Tables again](https://catalog.usfca.edu/preview_course_nopop.php?catoid=38&coid=558540)
 
 

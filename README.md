@@ -9,6 +9,8 @@ The purpose of this repository is to present the idea of the `hash table` data s
 
 ## Why care about Hash Tables?
 
+You should care about Hash Tables because they are actually used almost everywhere as seen below: 
+
 ### 1. Leetcode: [Hash Table problems](https://leetcode.com/tag/hash-table/)
 
 ### 2. Reddit posts: 
@@ -16,6 +18,6 @@ The purpose of this repository is to present the idea of the `hash table` data s
 - [When in doubt..](https://www.reddit.com/r/csMajors/comments/p5opln/when_in_doubt_hashmap/)
 - [Commonly Used Data Structures at work](https://www.reddit.com/r/ProgrammingLanguages/comments/w9bp4k/what_would_be_the_8020_of_data_structures_and/)
 
-### 3. USF MSDS Data Structures and Algortihms: [Hash Tables again](https://catalog.usfca.edu/preview_course_nopop.php?catoid=38&coid=558540)
+### 3. USF MSDS: [Data Structures and Algorithms course](https://catalog.usfca.edu/preview_course_nopop.php?catoid=38&coid=558540)
 
 

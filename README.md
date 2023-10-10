@@ -9,7 +9,7 @@ The purpose of this repository is to present the idea of the `hash table` data s
 
 ## Why care about Hash Tables?
 
-You should care about Hash Tables because they are actually used almost everywhere as seen below: 
+You should care about hash tables because they are used everywhere, not just in the MSDS program.
 
 ### 1. Leetcode: [Hash Table problems](https://leetcode.com/tag/hash-table/)
 

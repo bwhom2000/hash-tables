@@ -11,6 +11,7 @@ The purpose of this repository is to present the idea of the `hash table` data s
 
 ### 1. Leetcode: [Hash Table problems](https://leetcode.com/tag/hash-table/)
 
-### 2. Data Acquisition: [Assignment 3](https://github.com/yanneta/msds692/blob/master/hws/hw4/search.md)
+### 2. Reddit posts: 
+                * (Most Common Data Structure Patterns](https://www.reddit.com/r/leetcode/comments/ve3128/what_are_the_most_common_patterns_in_interviews/)
 
 
